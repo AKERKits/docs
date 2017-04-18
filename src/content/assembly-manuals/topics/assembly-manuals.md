@@ -1,9 +1,3 @@
----
-title: Assembly Manuals
-template: assembly-manuals.hbs
-order: 1
----
-
 ## 3 Tier Planter - v1.4
 
 {{{embed "4430350/47448286"}}}
