@@ -8,7 +8,7 @@ order: 1
 
 {{{embed "4430350/47448286"}}}
 
-[Download PDF](https://drive.google.com/open?id=0B_IrVvBj9yIuMlJEVDVlY25feE0)
+[Download PDF](https://drive.google.com/open?id=0B_IrVvBj9yIuX296akFQdE5GUmc)
 
 ## Boxy Planter
 
