@@ -14,7 +14,7 @@ order: 1
 
 {{{embed "4430350/47449415"}}}
 
-[Download PDF](https://www.google.com)
+[Download PDF](https://drive.google.com/open?id=0Bz7WbjRT9mlmaW9zLS1heTZKNzQ)
 
 ## Colorado Warre - v1.0
 
